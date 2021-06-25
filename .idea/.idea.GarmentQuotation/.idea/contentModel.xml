@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\bauti\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\bauti\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_GarmentQuotation.1961261316.00" t="ExcludeRecursive" />
+    <e p="C:\Users\bauti\RiderProjects\GarmentQuotation" t="IncludeFlat">
+      <e p="GarmentQuotation" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controller" t="Include">
+          <e p="FieldsValidator.cs" t="Include" />
+          <e p="PriceStrategies" t="Include">
+            <e p="IPriceUpdate.cs" t="Include" />
+            <e p="MaoNeckShirt.cs" t="Include" />
+            <e p="PremiumQuality.cs" t="Include" />
+            <e p="PriceUpdate.cs" t="Include" />
+            <e p="ShortSleevedShirt.cs" t="Include" />
+            <e p="StandardQuality.cs" t="Include" />
+            <e p="TightPant.cs" t="Include" />
+          </e>
+          <e p="QuotationController.cs" t="Include" />
+        </e>
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="GarmentQuotation.csproj" t="IncludeRecursive" />
+        <e p="HistoryForm.cs" t="Include" />
+        <e p="HistoryForm.Designer.cs" t="Include" />
+        <e p="HistoryForm.resx" t="Include" />
+        <e p="Model" t="Include">
+          <e p="ClothingStore.cs" t="Include" />
+          <e p="Garment.cs" t="Include" />
+          <e p="Pant.cs" t="Include" />
+          <e p="Quotation.cs" t="Include" />
+          <e p="Seller.cs" t="Include" />
+          <e p="Shirt.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="DataSources" t="Include">
+            <e p="Form1.datasource" t="Include" />
+            <e p="GarmentQuotation.Controller.FieldsValidator.datasource" t="Include" />
+            <e p="GarmentQuotation.Controller.PriceStrategies.IPriceUpdate.datasource" t="Include" />
+            <e p="GarmentQuotation.Controller.PriceStrategies.MaoNeckShirt.datasource" t="Include" />
+            <e p="GarmentQuotation.Controller.PriceStrategies.PremiumQuality.datasource" t="Include" />
+            <e p="GarmentQuotation.Controller.PriceStrategies.PriceUpdate.datasource" t="Include" />
+            <e p="GarmentQuotation.Controller.PriceStrategies.ShortSleevedShirt.datasource" t="Include" />
+            <e p="GarmentQuotation.Controller.PriceStrategies.StandardQuality.datasource" t="Include" />
+            <e p="GarmentQuotation.Controller.PriceStrategies.TightPant.datasource" t="Include" />
+            <e p="GarmentQuotation.Controller.QuotationController.datasource" t="Include" />
+            <e p="GarmentQuotation.Model.ClothingStore.datasource" t="Include" />
+            <e p="GarmentQuotation.Model.Garment.datasource" t="Include" />
+            <e p="GarmentQuotation.Model.Pant.datasource" t="Include" />
+            <e p="GarmentQuotation.Model.Quotation.datasource" t="Include" />
+            <e p="GarmentQuotation.Model.Seller.datasource" t="Include" />
+            <e p="GarmentQuotation.Model.Shirt.datasource" t="Include" />
+            <e p="GarmentQuotation.Properties.Resources.datasource" t="Include" />
+            <e p="GarmentQuotation.Properties.Settings.datasource" t="Include" />
+            <e p="HistoryForm.datasource" t="Include" />
+            <e p="Program.datasource" t="Include" />
+            <e p="Utiles.datasource" t="Include" />
+          </e>
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Utiles.cs" t="Include" />
+      </e>
+      <e p="GarmentQuotation.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
