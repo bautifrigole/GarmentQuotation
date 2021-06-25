@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cc369ae1-1241-42ed-9852-4400b015e406" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/Controller/FieldsValidator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/Controller/FieldsValidator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/Controller/QuotationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/Controller/QuotationController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/Form1.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/Form1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/GarmentQuotation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/GarmentQuotation.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/HistoryForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/HistoryForm.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/HistoryForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/HistoryForm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/Model/Garment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/Model/Garment.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/Model/Pant.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/Model/Pant.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/Model/Quotation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/Model/Quotation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/Model/Seller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/Model/Seller.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/Model/Shirt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/Model/Shirt.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/Utiles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/Utiles.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/bin/Debug/GarmentQuotation.exe" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/bin/Debug/GarmentQuotation.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/bin/Debug/GarmentQuotation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/bin/Debug/GarmentQuotation.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/obj/Debug/GarmentQuotation.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/obj/Debug/GarmentQuotation.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/obj/Debug/GarmentQuotation.exe" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/obj/Debug/GarmentQuotation.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarmentQuotation/obj/Debug/GarmentQuotation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GarmentQuotation/obj/Debug/GarmentQuotation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/GarmentQuotation/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/GarmentQuotation/v16/.suo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +25,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/GarmentQuotation" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/GarmentQuotation/Form1.cs" root0="FORCE_HIGHLIGHTING" />
@@ -131,7 +129,7 @@
       <updated>1608379032617</updated>
       <workItem from="1608379035705" duration="28977000" />
       <workItem from="1623871455257" duration="1317000" />
-      <workItem from="1624628563224" duration="6865000" />
+      <workItem from="1624628563224" duration="7683000" />
     </task>
     <servers />
   </component>
@@ -145,7 +143,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
